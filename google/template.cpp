@@ -1,7 +1,7 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
-using ULL = unsigned long long int;
+using LL = long long int;
 
 class Solution {
 public:

@@ -9,13 +9,13 @@ public:
 };
 
 int main() {
-	int T;
-	cin >> T;
+    int T;
+    cin >> T;
 
-	Solution s;
+    Solution s;
 
-	for(int i = 1; i <= T; ++ i) {
-		printf("Case #%d: \n", i);
-	}
+    for(int i = 1; i <= T; ++ i) {
+        printf("Case #%d: %d\n", i, 0);
+    }
     return 0;
 }

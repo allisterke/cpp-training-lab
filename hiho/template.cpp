@@ -8,7 +8,16 @@ public:
 
 };
 
-int main() {
+void test() {
     Solution s;
+}
+
+void run() {
+    Solution s;
+}
+
+int main() {
+    test();
+//    run();
     return 0;
 }

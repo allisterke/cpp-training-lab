@@ -2,6 +2,8 @@
 using namespace std;
 
 using LL = long long int;
+constexpr LL MOD = 1e9 + 7;
+pair<int, int> directions[] = { {0, 1}, {0, -1}, {1, 0}, {-1, 0} };
 
 class Solution {
 public:
